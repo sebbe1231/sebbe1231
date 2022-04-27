@@ -1,4 +1,10 @@
-<h1 align="center">JAZPER</h1>
+<h1 align="center">sebbe1231</h1>
+
+## About me 😎
+
+Slowly but surely learning programming, just kinda chillin.
+
+I play games too, if you ever wanna hang out or summin 👉👈
 
 <p align="center">
   <a href="https://github.com/sebbe1231">
@@ -10,6 +16,20 @@
   <a href="https://twitter.com/1gnoran7">
     <img src="https://img.shields.io/badge/Twitter-1gnoran7-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: 1gnoran7"/>
   </a>
+  <a href="https://steamcommunity.com/id/sebbe1231/">
+    <img src="https://img.shields.io/badge/Steam-sebbe1231-%231DA1F2?logo=steam&style=flat-square" alt="Steam: sebbe1231"/>
+  </a>
 </p>
 
-[![sebbe1231's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbe1231)](https://github.com/anuraghazra/github-readme-stats)
+<details open>
+  <summary> Github Stats </summary>
+  <img src = "https://github-readme-stats.vercel.app/api?username=sebbe1231&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebbe1231&layout=compact&theme=synthwave" />
+</details>
+
+<details open>
+  <summary> Tools n languages </summary>
+  <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=Windows" />
+  <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java" />
+</details>
