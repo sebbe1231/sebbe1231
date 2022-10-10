@@ -30,6 +30,16 @@ I play games too, if you ever wanna hang out or summin 👉👈
 </details>
 
 <details open>
+  <summary> Stackoverflow stats </summary>
+  <a href="https://github.com/kurt-liao/so-stats">
+  <img
+    height="200"
+    src="https://so-stats-kurt-liao.vercel.app/api?user=9957529"
+    />
+  </a>
+</details>
+  
+<details open>
   <summary> Tools n languages </summary>
   <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=Windows" />
