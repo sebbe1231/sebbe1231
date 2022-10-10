@@ -21,6 +21,8 @@ I play games too, if you ever wanna hang out or summin 👉👈
   </a>
 </p>
 
+<a href="https://stackoverflow.com/users/9957529/sebbe1231"><img src="https://stackoverflow.com/users/flair/9957529.png" width="208" height="58" alt="profile for sebbe1231 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for sebbe1231 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <details open>
   <summary> Github Stats </summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=sebbe1231&show_icons=true&theme=synthwave" />
