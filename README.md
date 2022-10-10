@@ -32,7 +32,7 @@ I play games too, if you ever wanna hang out or summin 👉👈
   <a href="https://github.com/kurt-liao/so-stats">
   <img
     height="200"
-    src="https://so-stats-kurt-liao.vercel.app/api?user=9957529"
+    src="https://so-stats-kurt-liao.vercel.app/api?user=9957529&random=true"
     />
   </a>
 </details>
