@@ -29,9 +29,12 @@ I play games too, if you ever wanna hang out or summin 👉👈
 
 <details open>
   <summary> Stackoverflow stats </summary>
-  <img height="137px"
-    src="https://stackoverflow-card.vercel.app/?userID=9957529&theme=dracula"
-  />
+  <a href="https://github.com/kurt-liao/so-stats">
+    <img
+      height="150"
+      src="https://so-stats-kurt-liao.vercel.app/api?user=9957529"
+    />
+  </a>
 </details>
   
 <details open>
