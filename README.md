@@ -41,9 +41,9 @@ I play games too, if you ever wanna hang out or summin 👉👈
   <summary> Tools n languages </summary>
   <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=Windows" />
-  <img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML" />
+  <img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS" />
+  <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS3" />
   <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap" />
 </details>
