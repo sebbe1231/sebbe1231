@@ -40,7 +40,6 @@ I play games too, if you ever wanna hang out or summin 👉👈
 <details open>
   <summary> Tools n languages </summary>
   <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=Python" />
-  <img src="https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=Windows" />
   <img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=JavaScript" />
   <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS3" />
