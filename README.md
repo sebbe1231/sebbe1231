@@ -46,4 +46,6 @@ I play games too, if you ever wanna hang out or summin 👉👈
   <img src="https://img.shields.io/badge/jinja-purple?style=for-the-badge&logo=jinja" />
   <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Java" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap" />
+  <img src="https://img.shields.io/badge/Svelte-purple?style=for-the-badge&logo=Svelte" />
+  <img src="https://img.shields.io/badge/SvelteKit-purple?style=for-the-badge&logo=Svelte" />
 </details>
