@@ -24,10 +24,11 @@ I play games too, if you ever wanna hang out or summin 👉👈
 <details open>
   <summary> Github Stats </summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=sebbe1231&show_icons=true&theme=synthwave" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebbe1231&layout=compact&theme=synthwave" />
 </details>
 
-<details open>
+<details>
   <summary> Stackoverflow stats </summary>
   <a href="https://github.com/kurt-liao/so-stats">
     <img
